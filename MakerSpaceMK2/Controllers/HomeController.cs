@@ -17,12 +17,14 @@ namespace MakerSpaceMK2.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly GpioController controller;
-        private int pinOut;
+        private readonly int pinOut;
 
         public HomeController(ILogger<HomeController> logger, GpioController gpioController)
         {
             _logger = logger;
             this.controller = gpioController;
+            
+
             pinOut = 17;
             controller.OpenPin(pinOut, PinMode.Output);
         }
@@ -62,7 +64,7 @@ namespace MakerSpaceMK2.Controllers
             controller.Write(pinOut, PinValue.High);
             Thread.Sleep(1000);
             controller.Write(pinOut, PinValue.Low);
-
+            
             return RedirectToAction(actionName: "Unlocked", controllerName: "Home");
 
         }

@@ -28,5 +28,11 @@
     "Name": "Anton A",
     "PasswordHash": "wnATdK1X5o/GN9wl8HxsvP/Xlsjeg0rTT6Xvgpa78ow=",
     "Salt": "9sv471jnoHIyldsQIZSOqA=="
+  },
+  {
+    "Username": "rasmusb229@gmail.com",
+    "Name": "Tester",
+    "PasswordHash": "gx+CSCSRWZaSCyRQXz1bmJRXgAxHeHsUfrk52HAdAaA=",
+    "Salt": "0+4UZfjC/7JAJh7cpBK7MQ=="
   }
 ]
