@@ -1,0 +1,32 @@
+[
+  {
+    "Username": "TestUser",
+    "Name": "Rasmus Testsson",
+    "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+    "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+  },
+  {
+    "Username": "thirdUser",
+    "Name": "qwerty",
+    "PasswordHash": "AUGM3zGonaWfqQrrVSG1G7dOcIdXa8kw3hixHwzRpcQ=",
+    "Salt": "0CX1yYHLX+X9eMVhkScKRw=="
+  },
+  {
+    "Username": "Veco",
+    "Name": "Jesp",
+    "PasswordHash": "vAL8tBsbUSSvPca73FAhbS5ZN3xc6sYqDNS6w5loOv8=",
+    "Salt": "aqOmT3dmdzkPW/ueKj8FnQ=="
+  },
+  {
+    "Username": "op266",
+    "Name": "Oskar Persson",
+    "PasswordHash": "u9FDUpOUH0eNI73kVzvsw0qNUmE9xOw/+fHFyc1jsis=",
+    "Salt": "l5hqzGhzzF7yXg/o1hk6Rw=="
+  },
+  {
+    "Username": "Antonalp",
+    "Name": "Anton A",
+    "PasswordHash": "wnATdK1X5o/GN9wl8HxsvP/Xlsjeg0rTT6Xvgpa78ow=",
+    "Salt": "9sv471jnoHIyldsQIZSOqA=="
+  }
+]

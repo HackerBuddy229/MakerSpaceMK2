@@ -1,0 +1,128 @@
+[
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-05T15:50:16.8865515+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-05T15:51:46.8028866+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "SecondTest",
+      "Name": "Tester",
+      "PasswordHash": "L+TXIGew/XVlcQVLncptDYxklCXzoj7wDYW557VkN+s=",
+      "Salt": "y+qNuou/+cst1ER/0kD8JA=="
+    },
+    "LogTime": "2020-01-05T19:01:18.572742+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-05T20:02:37.4625368+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-06T09:06:44.0805803+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-09T21:05:11.916007+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-10T08:38:26.6586734+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "Veco",
+      "Name": "Jesp",
+      "PasswordHash": "vAL8tBsbUSSvPca73FAhbS5ZN3xc6sYqDNS6w5loOv8=",
+      "Salt": "aqOmT3dmdzkPW/ueKj8FnQ=="
+    },
+    "LogTime": "2020-01-10T08:39:04.973323+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-01-11T13:40:40.4769773+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-02-04T14:17:22.7108161+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-02-04T14:18:37.8646974+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "op266",
+      "Name": "Oskar Persson",
+      "PasswordHash": "u9FDUpOUH0eNI73kVzvsw0qNUmE9xOw/+fHFyc1jsis=",
+      "Salt": "l5hqzGhzzF7yXg/o1hk6Rw=="
+    },
+    "LogTime": "2020-02-18T12:47:34.9822354+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "Antonalp",
+      "Name": "Anton A",
+      "PasswordHash": "wnATdK1X5o/GN9wl8HxsvP/Xlsjeg0rTT6Xvgpa78ow=",
+      "Salt": "9sv471jnoHIyldsQIZSOqA=="
+    },
+    "LogTime": "2020-02-21T14:07:28.2747491+01:00"
+  },
+  {
+    "UserData": {
+      "Username": "TestUser",
+      "Name": "Rasmus Testsson",
+      "PasswordHash": "1Jus/AaXT99go8KF4NA39GfnCRgMABSyRAHbGQ04KBI=",
+      "Salt": "BkPdVRlJYsasPVyCkWJ2Uw=="
+    },
+    "LogTime": "2020-02-21T14:48:44.0065592+01:00"
+  }
+]

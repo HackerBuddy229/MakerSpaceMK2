@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Welcome to the admin panel</h1>
+<div>
+    <p>Click here to access administrative functions</p>
+    <ul>
+        <li>@Html.ActionLink("Create user", actionName: "CreateUser", controllerName: "Admin")</li>
+        <li>@Html.ActionLink("Delete user", actionName: "DeleteUser", controllerName: "Admin")</li>
+        <li>@Html.ActionLink("View users", actionName: "", controllerName: "Admin")</li>
+        <li>@Html.ActionLink("Fetch log", actionName: "", controllerName: "Admin")</li>
+    </ul>
+</div>
