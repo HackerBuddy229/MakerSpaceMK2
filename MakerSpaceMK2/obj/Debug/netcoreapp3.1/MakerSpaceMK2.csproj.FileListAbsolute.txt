@@ -108,7 +108,6 @@ C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\bin\Debug\netcoreapp3.
 C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\obj\Debug\netcoreapp3.1\MakerSpaceMK2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Unlocked.cshtml.g.cs
 C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Information.cshtml.g.cs
 C:\Users\rasmusb\source\repos\MakerSpaceMK2\MakerSpaceMK2\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs
