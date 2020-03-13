@@ -80,13 +80,19 @@ namespace MakerSpaceMK2.Controllers
         private void TriggerServo(){
 
 
-            using (var process = new Process()){
-                process.StartInfo.UseShellExecute = false;
-                process.StartInfo.FileName = this.bashPath;
-                process.StartInfo.CreateNoWindow = true;
+            var process = new Process()
+            {
+                StartInfo = new ProcessStartInfo
+                {
+                    FileName = "/bin/bash",
+                    Arguments = "-c \"./home/ubuntu/MakerSpaceMK2/TriggerServo.sh\"",
+                    RedirectStandardOutput = true,
+                    UseShellExecute = false,
+                    CreateNoWindow = true,
+                }
+            };
+            process.Start();
 
-                process.Start();
-            }
         }
 
         [HttpGet]
