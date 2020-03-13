@@ -10,6 +10,7 @@ using MakerSpaceMK2.Models.DatabaseModels;
 using System.Device.Gpio;
 using MakerSpaceMK2.Services;
 using System.Threading;
+using System.ComponentModel;
 
 namespace MakerSpaceMK2.Controllers
 {
@@ -18,15 +19,18 @@ namespace MakerSpaceMK2.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly GpioController controller;
         private readonly int pinOut;
+        private readonly string bashPath;
 
         public HomeController(ILogger<HomeController> logger, GpioController gpioController)
         {
             _logger = logger;
             this.controller = gpioController;
             
-
+            bashPath = "/user/ubuntu/MakerSpaceMK2/TriggerServo.sh";
+            /*
             pinOut = 17;
             controller.OpenPin(pinOut, PinMode.Output);
+            */
         }
 
         [HttpGet]
@@ -60,13 +64,29 @@ namespace MakerSpaceMK2.Controllers
             dataServices.SaveLogData(newData, false);
 
 
-            
+            /*
             controller.Write(pinOut, PinValue.High);
             Thread.Sleep(1000);
             controller.Write(pinOut, PinValue.Low);
-            
+            */
+
+            TriggerServo();
+
+
             return RedirectToAction(actionName: "Unlocked", controllerName: "Home");
 
+        }
+
+        private void TriggerServo(){
+
+
+            using (var process = new Process()){
+                process.StartInfo.UseShellExecute = false;
+                process.StartInfo.FileName = this.bashPath;
+                process.StartInfo.CreateNoWindow = true;
+
+                process.Start();
+            }
         }
 
         [HttpGet]
