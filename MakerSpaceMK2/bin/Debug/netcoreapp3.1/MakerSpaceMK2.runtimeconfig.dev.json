@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/hackerbuddy/.dotnet/store/|arch|/|tfm|",
-      "/home/hackerbuddy/.nuget/packages"
+      "/home/ubuntu/.dotnet/store/|arch|/|tfm|",
+      "/home/ubuntu/.nuget/packages"
     ]
   }
 }

@@ -85,7 +85,7 @@ namespace MakerSpaceMK2.Controllers
                 StartInfo = new ProcessStartInfo
                 {
                     FileName = "/bin/bash",
-                    Arguments = "-c \"./home/ubuntu/MakerSpaceMK2/TriggerServo.sh\"",
+                    Arguments = "-c \"/home/ubuntu/MakerSpaceMK2/TriggerServo.sh\"",
                     RedirectStandardOutput = true,
                     UseShellExecute = false,
                     CreateNoWindow = true,
